@@ -1591,6 +1591,14 @@ section {
     transform: rotate(360deg);
   }
 }
+/*--------------------------------------------------------------
+# what-offer
+--------------------------------------------------------------*/
+#what-offer{
+  background: url('../../assets/img/offer/whatOffer.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 
 /*--------------------------------------------------------------
 # Footer
@@ -1639,7 +1647,7 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #ffb03b;
+  background: #907952;
 }
 
 #footer .copyright {
