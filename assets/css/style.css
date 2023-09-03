@@ -910,13 +910,13 @@ section {
 .menu .menu-content {
   margin-top: 30px;
   overflow: hidden;
-  display: flex;
+/*  display: flex;*/
   justify-content: space-between;
   position: relative;
 }
 
 .menu .menu-content::after {
-  content: "......................................................................" "...................................................................." "....................................................................";
+/*  content: "......................................................................" "...................................................................." "....................................................................";*/
   position: absolute;
   left: 20px;
   right: 0;
@@ -1016,7 +1016,7 @@ section {
 # Events
 --------------------------------------------------------------*/
 .events {
-  background: url(../img/events-bg.jpg) center center no-repeat;
+  background: url(../img/couple.jpg) center center no-repeat;
   background-size: cover;
   position: relative;
 }
